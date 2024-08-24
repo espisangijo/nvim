@@ -4,7 +4,7 @@ return {
     lazy = true,
     name = "catppuccin",
     opts = {
-      flavour = "frappe",
+      flavour = "latte",
       transparent_background = true,
       integrations = {
         aerial = true,
