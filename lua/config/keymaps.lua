@@ -223,10 +223,6 @@ end
 
 vim.keymap.set("n", "<leader>cd", insert_docstring)
 
-vim.keymap.set("n", "<leader>tk", "<cmd>:ChatGPT<cr>")
-vim.keymap.set("n", "<leader>tj", "<cmd>:ChatGPTActAs<cr>")
-vim.keymap.set("n", "<leader>tt", "<cmd>:ChatGPTEditWithInstructions<cr>")
-
 vim.keymap.set("x", "<leader>re", ":Refactor extract ")
 vim.keymap.set("x", "<leader>rf", ":Refactor extract_to_file ")
 

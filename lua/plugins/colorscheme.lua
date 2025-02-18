@@ -1,10 +1,10 @@
 return {
   {
-    "catppuccin/nvim",
+    "rose-pine/neovim",
     lazy = true,
-    name = "catppuccin",
+    name = "rose-pine",
     opts = {
-      flavour = "latte",
+      flavour = "main",
       transparent_background = true,
       integrations = {
         aerial = true,
@@ -45,7 +45,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "rose-pine",
     },
   },
 }
